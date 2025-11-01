@@ -1,6 +1,6 @@
 ⚠️ Grafana Service Down ⚠️
-Timestamp: 2025-11-01 15:25:49
+Timestamp: 2025-11-01 15:46:01
 Hostname: grafana-virtual-machine
-IP Address: 192.168.1.
+IP Address: 192.168.1.238
 Grafana Status: inactive
 ----------------------------------------
